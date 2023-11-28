@@ -1,0 +1,21 @@
+.header {
+    padding: 30px 0;
+}
+
+.logo {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo-text {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.logo-text span {
+    font-size: 40px;
+    font-weight: 900;
+}
